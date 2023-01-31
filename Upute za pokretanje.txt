@@ -1,0 +1,13 @@
+Upute su za Windows okruženje:
+
+1. preuzeti alat Inform: https://github.com/ganelson/inform/releases
+
+2. instalirati alat
+
+3. preuzeti kompletnu datoteku The Game.inform
+
+4. otvoriti datoteku The Game.inform u alatu Inform
+
+5. pokrenuti igru pritiskom na gumb Go! u gornjem lijevom kutu
+
+6. igra je pokrenuta u desnom prozoru alata
